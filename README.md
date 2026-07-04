@@ -15,7 +15,7 @@ em sub-redes diferentes, interligados por um roteador Cisco 2911.
 | Contas    | 192.168.40.0/25     | PC0, PC1, Printer0     |
 | Delivery  | 192.168.40.128/25   | PC2, PC3, Printer1     |
 
-(cli-config.png)
+![CLI Config](cli-config.png)
 
 ## O que foi configurado
 - Sub-redes com máscara /25
